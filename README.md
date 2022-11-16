@@ -24,7 +24,7 @@ This system allows only for 4 types of movement: North, South, East and West. Ho
 ## Showcase
 
 
-![](https://github.com/klazapp/UNITY-GridBased-Pathfinding/blob/main/Assets/Gif Showcase/Gifshowcase.gif)
+![](https://github.com/klazapp/UNITY-GridBased-Pathfinding-/blob/main/Assets/Gif Showcase/Gifshowcase.gif)
 
 
 This gif shows that the player moves to the clicked target point using the pathfinding system
